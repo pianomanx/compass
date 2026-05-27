@@ -1,3 +1,3 @@
-# MITRE Caldera Plugin: Compass
+# Caldera Plugin: Compass
 
 Plugin supplying Caldera with ATT&CK visualizations
